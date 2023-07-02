@@ -6,6 +6,9 @@ My first iOS app
 - Feel free to play around with other elements, such as image views, text fields, etc.
 - Implement a way to change the color of the text as well
 
+# GIF Walkthrough
+![](https://imgur.com/a/62YrCE0)
+
 # App Brainstorming
 
 1. YouTube
