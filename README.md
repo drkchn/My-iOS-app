@@ -7,7 +7,7 @@ My first iOS app
 - Implement a way to change the color of the text as well
 
 # GIF Walkthrough
-![](https://i.imgur.com/Ty15W83)
+![](https://github.com/drkchn/My-iOS-app/assets/57195399/ca470a15-a61b-41a6-ba83-fdc637c9cde1)
 
 # App Brainstorming
 
