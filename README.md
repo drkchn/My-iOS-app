@@ -1,4 +1,5 @@
 # My-iOS-app
+
 My first iOS app
 
 - Improve the UI by using different fonts/colors/background
@@ -6,6 +7,7 @@ My first iOS app
 - Implement a way to change the color of the text as well
 
 # App Brainstorming
+
 1. YouTube
    - Strong recommendation system
    - Notification system when a new video is posted
@@ -20,4 +22,5 @@ My first iOS app
    - Easy to use Markdown writing style
 
 # Potential ideas
-App that saves your running times (5K, 10K, half+full marathons)
+
+App that saves your running times (5K, 10K, half+full marathons). The fitness app would allow users to record their competition race information and metadata and keep track of races they've participated in the past. Users can enter metadata about the races, including location, date, duration, and metadata about the race itself (course difficulty, course terrain, weather, etc.) User would have the ability to view their racing progress over time.
